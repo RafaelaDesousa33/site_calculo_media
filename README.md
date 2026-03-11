@@ -4,6 +4,8 @@ Projeto simples desenvolvido para calcular a média de três notas informadas pe
 
 O usuário digita as três notas nos campos disponíveis e o sistema calcula automaticamente a média final, mostrando o resultado na tela.
 
+![Preview do projeto](site_calculo_media_foto.mp4.png)
+
 ## Tecnologias utilizadas
 
 * HTML
